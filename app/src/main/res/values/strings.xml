@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CadastroJogos</string>
+
+    <string name="mensagem_sucesso">
+        O jogo %1$s do gênero %2$s foi lançado em %3$d
+    </string>
+</resources>
